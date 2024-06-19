@@ -1,0 +1,100 @@
+[
+  {
+    "pertanyaan": "Berikut ini yang tidak termasuk unsur penting dalam cerita fiksi adalah...",
+    "pilihan": ["karakter tokoh", "tema", "alur", "pengarang", "setting"],
+    "jawaban": "pengarang"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk unsur intrinsik dalam cerpen adalah...",
+    "pilihan": ["tema", "pengarang", "setting", "judul", "alur"],
+    "jawaban": "tema"
+  },
+  {
+    "pertanyaan": "Tata cara menuliskan kota pengirim dan tanggal tahun pembuatan surat resmi yang benar yaitu...",
+    "pilihan": [
+      "Jakarta – 1 Mei 2017",
+      "Jakarta, 1 – Mei 2017",
+      "Jakarta, 1 Mei 2017",
+      "Jakarta 1 Mei 2017",
+      "Jakarta, 1/5/2017"
+    ],
+    "jawaban": "Jakarta, 1 Mei 2017"
+  },
+  {
+    "pertanyaan": "Salah satu langkah penting dalam menulis sebuah cerpen adalah…",
+    "pilihan": [
+      "Mengabaikan penutup cerita",
+      "Memperpendek alur cerita agar lebih singkat",
+      "Menciptakan tokoh dan latar yang realistis",
+      "Meniru gaya penulisan dari penulis terkenal",
+      "Menggunakan bahasa yang sulit dipahami"
+    ],
+    "jawaban": "Menciptakan tokoh dan latar yang realistis"
+  },
+  {
+    "pertanyaan": "Nanda terkenal sebagai anak yang bermuka dua di hadapan teman-temannya. Makna kata bermuka dua adalah ...",
+    "pilihan": [
+      "Pendiriannya tidak tetap",
+      "Pendiriannya sangat teguh",
+      "Sangat baik pada teman",
+      "Memiliki 2 orang teman",
+      "Tidak jujur"
+    ],
+    "jawaban": "Sangat baik pada teman"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan termasuk jenis-jenis puisi adalah...",
+    "pilihan": [
+      "Puisi lama",
+      "Puisi baru",
+      "Puisi bebas",
+      "Puisi sastra",
+      "Puisi pantun"
+    ],
+    "jawaban": "Puisi sastra"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan termasuk jenis-jenis cerpen adalah...",
+    "pilihan": [
+      "Cerpen horor",
+      "Cerpen fiksi",
+      "Cerpen sastra",
+      "Cerpen ilmiah",
+      "Cerpen fantasi"
+    ],
+    "jawaban": "Cerpen sastra"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan termasuk jenis-jenis novel adalah...",
+    "pilihan": [
+      "Novel sejarah",
+      "Novel fiksi",
+      "Novel sastra",
+      "Novel ilmiah",
+      "Novel fantasi"
+    ],
+    "jawaban": "Novel sastra"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan termasuk jenis-jenis drama adalah...",
+    "pilihan": [
+      "Drama tragedi",
+      "Drama komedi",
+      "Drama sastra",
+      "Drama ilmiah",
+      "Drama fantasi"
+    ],
+    "jawaban": "Drama sastra"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan termasuk jenis-jenis dongeng adalah...",
+    "pilihan": [
+      "Dongeng rakyat",
+      "Dongeng fiksi",
+      "Dongeng sastra",
+      "Dongeng ilmiah",
+      "Dongeng fantasi"
+    ],
+    "jawaban": "Dongeng sastra"
+  }
+]
